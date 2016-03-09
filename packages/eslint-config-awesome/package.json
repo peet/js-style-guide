@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-awesome",
+  "version": "1.0.0",
+  "description": "eslint shareable config for ES6 and optionally React, which is awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/peet/js-style-guide.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide"
+  ],
+  "peerDependencies": {
+    "eslint": "^2.3.0"
+  },
+  "author": "Peet",
+  "homepage": "https://github.com/peet/js-style-guide#readme"
+}

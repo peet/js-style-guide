@@ -1,4 +1,5 @@
 {
+  "extends": "awesome/base",
   "rules": {
     "quote-props": 0
   }
