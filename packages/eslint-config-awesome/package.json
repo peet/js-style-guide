@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-awesome",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "eslint shareable config for ES6 and optionally React, which is awesome",
   "main": "index.js",
   "scripts": {
