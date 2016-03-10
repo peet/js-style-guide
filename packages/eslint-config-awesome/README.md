@@ -16,7 +16,7 @@ and React. It requires `eslint` and `eslint-plugin-react`.
 1. `npm install --save-dev eslint-config-awesome eslint-plugin-react eslint`
 2. add `"extends": "awesome"` to your .eslintrc
 
-### eslint-config-airbnb/base
+### eslint-config-awesome/base
 
 Lints ES6+ but does not lint React. Requires `eslint`.
 
@@ -26,5 +26,3 @@ Lints ES6+ but does not lint React. Requires `eslint`.
 See [the Javascript styleguide](https://github.com/peet/js-style-guide) and
 the [ESlint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files)
 for more information.
-
-You can make sure this module lints with itself using `npm run lint`.
