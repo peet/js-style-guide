@@ -7,7 +7,7 @@ module.exports = {
   'extends': 'awesome/base',
   'rules': {
     'react/jsx-boolean-value': 2,
-    'react/jsx-closing-bracket-location': [2, 'line-aligned'],
+    'react/jsx-closing-bracket-location': [2, { "selfClosing": "line-aligned", "nonEmpty": "after-props" }],
     'react/jsx-curly-spacing': 2,
     'react/jsx-equals-spacing': 2,
     'react/jsx-indent': [1, 2],

@@ -55,7 +55,7 @@ module.exports = {
     'no-underscore-dangle': 0,
     'no-unneeded-ternary': [2, { 'defaultAssignment': false }],
     'no-unused-expressions': [2, { 'allowShortCircuit': true, 'allowTernary': true }],
-    'no-use-before-define': 2,
+    'no-use-before-define': [2, { 'functions': false }],
     'no-useless-concat': 2,
     'no-warning-comments': 1,
     'no-with': 2,
