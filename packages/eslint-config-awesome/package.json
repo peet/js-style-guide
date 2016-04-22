@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-awesome",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "eslint shareable config for ES6 and optionally React, which is awesome",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "styleguide"
   ],
   "peerDependencies": {
-    "eslint": "^2.3.0"
+    "eslint": "^2.5.3"
   },
   "author": "Peet",
   "homepage": "https://github.com/peet/js-style-guide#readme"
