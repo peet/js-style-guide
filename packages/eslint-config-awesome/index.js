@@ -1,4 +1,4 @@
 module.exports = {
-  extends: 'awesome/react',
-  rules: {}
+  extends: ['./react'].map(require.resolve),
+  rules: {},
 };
