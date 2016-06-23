@@ -44,7 +44,7 @@ module.exports = {
     'func-names': 'off',
     'func-style': 'off',
     'generator-star-spacing': ['error', { after: true, before: false }],
-    'global-require': 'error',
+    'global-require': 'off',
     'guard-for-in': 'off',
     'handle-callback-err': 'off',
     'id-blacklist': 'off',
