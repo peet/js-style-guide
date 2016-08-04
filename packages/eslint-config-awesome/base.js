@@ -57,7 +57,7 @@ module.exports = {
     'linebreak-style': 'error',
     'lines-around-comment': 'off',
     'max-depth': ['error', 4],
-    'max-len': ['warn', 120, 2, {
+    'max-len': ['warn', 180, 2, {
       ignoreComments: false,
       ignoreUrls: true,
     }],
@@ -66,6 +66,7 @@ module.exports = {
     'max-params': 'off',
     'max-statements': ['warn', 20],
     'max-statements-per-line': ['error', { max: 1 }],
+    'multiline-ternary': 'off',
     'new-cap': 'error',
     'new-parens': 'error',
     'newline-after-var': 'off',
@@ -105,7 +106,7 @@ module.exports = {
     'no-extra-bind': 'error',
     'no-extra-boolean-cast': 'error',
     'no-extra-label': 'error',
-    'no-extra-parens': 'off',
+    'no-extra-parens': 'error',
     'no-extra-semi': 'error',
     'no-fallthrough': 'error',
     'no-floating-decimal': 'error',
@@ -167,6 +168,7 @@ module.exports = {
     'no-spaced-func': 'error',
     'no-sparse-arrays': 'error',
     'no-sync': 'off',
+    'no-tabs': 'error',
     'no-ternary': 'off',
     'no-this-before-super': 'error',
     'no-throw-literal': 'error',
