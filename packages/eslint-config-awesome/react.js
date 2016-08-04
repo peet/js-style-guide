@@ -37,7 +37,7 @@ module.exports = {
     'react/jsx-space-before-closing': ['error', 'never'],
     'react/jsx-uses-react': 'error',
     'react/jsx-uses-vars': 'error',
-    'react/jsx-wrap-multilines': 'error',
+    'react/jsx-wrap-multilines': 'off',
     'react/no-danger': 'off',
     'react/no-deprecated': 'warn',
     'react/no-did-mount-set-state': 'off',
