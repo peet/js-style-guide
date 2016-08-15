@@ -24,7 +24,7 @@ module.exports = {
     'arrow-spacing': 'error',
     'block-scoped-var': 'off',
     'block-spacing': 'error',
-    'brace-style': 'error',
+    'brace-style': ['error', '1tbs', { allowSingleLine: true }],
     'callback-return': 'off',
     'camelcase': 'error',
     'comma-dangle': ['error', 'always-multiline'],
